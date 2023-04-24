@@ -86,7 +86,7 @@
 
 
 .home {
-    background-image: url(/img/bg.png);
+    background-image: url(../img/bg.png);
     z-index: 2;
     background-size: cover;
     background-repeat: no-repeat;
@@ -96,7 +96,7 @@
 }
 
 body.dark-mode .home{
-    background-image: url(/img/bg2.png);
+    background-image: url(../img/bg2.png);
 }
 
 
